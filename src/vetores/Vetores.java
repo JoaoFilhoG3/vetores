@@ -6,11 +6,11 @@ public class Vetores {
 
     public static void main(String[] args) {
 
-        String nomes[] = new String[10];
-        double parciais[] = new double[10];
-        double bimestrais[] = new double[10];
-        double medias[] = new double[10];
-        boolean aprovado[] = new boolean[10];
+        String nomes[] = new String[11];
+        double parciais[] = new double[11];
+        double bimestrais[] = new double[11];
+        double medias[] = new double[11];
+        boolean aprovado[] = new boolean[11];
 
         /**
          * Preenchendo nomes
